@@ -38,7 +38,7 @@ int main() {
 
 	
 
-    //explanations for all conditions are given in README
+    //explanations for all conditions are given in the README file.
 
 	//........................checking condition 1: C1...............................
 	// C1: Condition that every row contains at least one queen. (Note that it won't flag any error if there are two or more of them).

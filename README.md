@@ -1,5 +1,5 @@
 # N-Queens
-Provide an arrangement of N queens through the array (of arrays) in the code itesel and the program will tell if the provided arragement sastisfies the N-queen arrangement.
+Provide an arrangement of N queens through the array (of arrays) in the code itself and the program will tell if the provided arrangement satisfies the N-queen arrangement.
 
 ### What is N-Queens game
 The eight queens puzzle is the problem of placing N chess queens on an N×N chessboard so that no two queens threaten each other; thus, a solution requires that no two queens share the same row, column, or diagonal. 

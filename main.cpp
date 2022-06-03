@@ -36,12 +36,7 @@ int main() {
 	};
 
 
-	//looping to produce 4x4x4x4 different possible arrangements
-	for (int i = 0; i < N; i++) {
-		for (int j = 0; j < N; j++) {
-
-		}
-	}
+	
 
     //explanations for all conditions are given in README
 
